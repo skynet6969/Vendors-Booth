@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "src/Vendors-Booth",
+			"group": "clean",
+			"problemMatcher": [],
+			"label": "npm: install - src/Vendors-Booth",
+			"detail": "install dependencies from package"
+		}
+	]
+}
